@@ -52,7 +52,7 @@ The richer the lord, the higher the chance to get better-quality loot.
 
 ---
 ## 🙏 Support This Projects
-To help ensure the continued development and improvement of Lord Plunder, as well as future modding projects, you can offer your support through my [Patreon](https://www.patreon.com/cw/bytearchsoftware) or [Gumroad](https://bytearchsoft.gumroad.com/l/LordPlunder) pages. Every bit of encouragement is greatly appreciated.
+To help ensure the continued development and improvement of Lord Plunder, as well as future modding projects, you can offer your support through my [Patreon](https://www.patreon.com/cw/bytearchsoftware) or [Gumroad](https://bytearchsoft.gumroad.com/coffee) pages. Every bit of encouragement is greatly appreciated.
 
 ---
 ## 💬 Feedback & Support

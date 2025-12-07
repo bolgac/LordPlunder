@@ -1,23 +1,23 @@
-# 🏰 Lord Plunder — Pillage Captured Lords After Battle
+# Lord Plunder — Pillage Captured Lords After Battle
 
 ![Mod Banner](Media/banner.jpg)
 
-## ⚔️ Description
+## Description
 **Lord Plunder** adds an immersive post-battle mechanic to *Mount & Blade II: Bannerlord*.  
 After each battle, if you capture enemy lords, you can now **pillage them**, **show mercy**, or soon **demand ransom** — every choice affects your **relations, charm, and wealth**.
 
 ---
 
-## 🎮 Features
-- 🪓 Plunder all captured lords or choose them individually  
-- 💰 Gain random loot and gold based on each lord’s wealth  
-- ❤️ Show mercy to increase relations and charm  
-- ☠️ Execute lords to seize all their items and gold  
-- 🎲 Dynamic relation effects (−3 to +5) depending on your choice  
+## Features
+- Plunder all captured lords or choose them individually  
+- Gain random loot and gold based on each lord’s wealth  
+- Show mercy to increase relations and charm  
+- Execute lords to seize all their items and gold  
+- Dynamic relation effects (−3 to +5) depending on your choice  
 
 ---
 
-## ⚙️ Gameplay Mechanics
+## Gameplay Mechanics
 
 | Action | Result |
 |--------|--------|
@@ -29,7 +29,7 @@ The richer the lord, the higher the chance to get better-quality loot.
 
 ---
 
-## 🚧 Upcoming Features
+## Upcoming Features
 - **Options Menu (Mod Configuration):** Adjust relationship impact, loot range, and gold percentages  
 - **Ransom System:** Request ransom instead of plundering  
 - **Diplomacy Integration:** Lords may seek revenge for plundering  
@@ -37,32 +37,32 @@ The richer the lord, the higher the chance to get better-quality loot.
 
 ---
 
-## 📦 Installation
-1. Download the latest version from the **[Releases](https://github.com/IMaresaLI/LordPlunder/releases/tag/1.3.4)** page.  
+## Installation
+1. Download the latest version from the **[Releases](https://github.com/IMaresaLI/LordPlunder/releases/tag/1.3.5)** page.  
 2. Extract the folder into your Bannerlord `Modules` directory : common\Mount & Blade II Bannerlord\Modules\
 3. Enable **Lord Plunder** in the launcher.  
 4. Start or load your campaign to activate the new features.
 
 ---
 
-## 🧠 Compatibility
+## Compatibility
 - **Bannerlord Version:** 1.2.x or newer  
 - **Compatible:** Most campaign mods  
 - **Potential Conflicts:** Mods that heavily alter prisoner or execution systems  
 
 ---
-## 🙏 Support This Projects
-To help ensure the continued development and improvement of Lord Plunder, as well as future modding projects, you can offer your support through my [Patreon](https://www.patreon.com/cw/bytearchsoftware) or [Gumroad](https://bytearchsoft.gumroad.com/coffee) pages. Every bit of encouragement is greatly appreciated.
+## Support This Projects
+To help ensure the continued development and improvement of Lord Plunder, as well as future modding projects, you can offer your support through my [GithubSub](https://github.com/sponsors/bolgac) or [Gumroad](https://bytearchsoft.gumroad.com/coffee) pages. Every bit of encouragement is greatly appreciated.
 
 ---
-## 💬 Feedback & Support
+## Feedback & Support
 This mod is still under development.  
 For bug reports, feature requests, or updates, please use the GitHub Issues page:  
 👉 [https://github.com/IMaresaLI/LordPlunder/issues](https://github.com/IMaresaLI/LordPlunder/issues)
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 | Scene | Description |
 |--------|-------------|
 | ![](Media/Lord_Plunder_UI.png) | Post-battle Lord Plunder UI |
@@ -70,7 +70,7 @@ For bug reports, feature requests, or updates, please use the GitHub Issues page
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
 
 ---
